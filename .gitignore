@@ -1,2 +1,4 @@
 /whispers
 .env
+/dist
+/whispers_be.egg-info

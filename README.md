@@ -11,5 +11,11 @@ my final ALX portfolio project :)))
 
 ### how to run locally
 
+python3 setup.py install
+pip3 install -r requirements.txt
+
+
+./api/v1/app.py
+
 
 
